@@ -5,3 +5,5 @@ Class 类
 ClassLoader 
 
 Thread 
+
+Throwable: getStackTrace
